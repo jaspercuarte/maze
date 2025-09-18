@@ -1,5 +1,5 @@
 
-# maze
+# 🧩maze
 
 CLI-based *`Maze Generator and Solver`* in Java through recursive backtracking algorithm.  
 
